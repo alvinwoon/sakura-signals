@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+sakura_signals_demo
+*.dSYM/
+
+# System files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Debug files
+core
+gmon.out
