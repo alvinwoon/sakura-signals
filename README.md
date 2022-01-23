@@ -147,13 +147,6 @@ This implementation incorporates cutting-edge research from 2024-2025 in quantit
 - Memory-efficient circular buffer integration with attention mechanisms
 - Hybrid traditional/ML approach suitable for production environments
 
-## Requirements
-
-- macOS with Xcode Command Line Tools
-- GCC or Clang compiler
-- Standard C99 library
-- Mathematics library (libm)
-
 ## Demo Output
 
 The demo showcases both traditional and attention-enhanced signals:
