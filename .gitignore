@@ -12,3 +12,12 @@ sakura_signals_demo
 # Debug files
 core
 gmon.out
+
+# Documentation drafts
+*.draft.md
+notes.txt
+
+# Development tools
+NOTES.md
+build_tools.sh
+commit_helper.sh
