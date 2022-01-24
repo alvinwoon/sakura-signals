@@ -132,20 +132,11 @@ The transformer-inspired attention mechanism enhances traditional statistical ar
 - Minimal dynamic memory allocation during operation
 - Attention computation optimized for 1D time series
 
-## Research Background
-
-This implementation incorporates cutting-edge research from 2024-2025 in quantitative finance:
-
-- **Transformer Networks**: Inspired by "Transformers and attention-based networks in quantitative trading" (ACM 2024)
-- **Deep RL Integration**: Based on recent work in "Deep reinforcement learning for pairs trading" (2024)
-- **Temporal Attention**: Follows principles from "Self-attention based deep direct recurrent reinforcement learning" research
-- **Statistical Arbitrage Enhancement**: Implements modern approaches to traditional mean reversion strategies
-
-### Key Innovations
-- First C implementation of transformer attention for pairs trading
+## Key Features
+- High-performance C implementation optimized for low latency
 - Real-time attention weight computation for financial time series
-- Memory-efficient circular buffer integration with attention mechanisms
-- Hybrid traditional/ML approach suitable for production environments
+- Memory-efficient circular buffer integration with ML mechanisms
+- Hybrid statistical/ML approach suitable for production environments
 
 ## Demo Output
 
