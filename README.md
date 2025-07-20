@@ -1,8 +1,6 @@
-# Sakura Signals: Production-Ready Statistical Arbitrage System
+# Sakura Signals: Statistical Arbitrage System
 
 A C library for statistical arbitrage and pairs trading
-
-## Production-Ready Features
 
 ### Core Infrastructure
 - **SIMD-Optimized Operations**: AVX2 vectorized calculations for ultra-low latency
@@ -38,7 +36,7 @@ A C library for statistical arbitrage and pairs trading
 - `AttentionLayer`: Transformer-inspired temporal attention mechanism
 - `PairSignal`: Enhanced signal with hedge ratios, costs, and regime information
 
-### Production Modules
+### Modules
 - `regime_detection.c`: Hidden Markov Model implementation for market regimes
 - `dynamic_hedging.c`: Time-varying hedge ratio calculation and half-life estimation
 - `transaction_costs.c`: Microstructure-aware cost modeling and execution analysis
