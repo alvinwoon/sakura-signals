@@ -124,7 +124,7 @@ The transformer-inspired attention mechanism enhances traditional statistical ar
 - Context vector computation with weighted feature aggregation
 - Enhanced z-score calculation using attention-weighted statistics
 
-## Performance Features
+## Performance 
 
 - O(1) rolling window updates using circular buffers
 - Memory-efficient data structures
@@ -132,7 +132,8 @@ The transformer-inspired attention mechanism enhances traditional statistical ar
 - Minimal dynamic memory allocation during operation
 - Attention computation optimized for 1D time series
 
-## Key Features
+## Additional notes
+
 - High-performance C implementation optimized for low latency
 - Real-time attention weight computation for financial time series
 - Memory-efficient circular buffer integration with ML mechanisms
